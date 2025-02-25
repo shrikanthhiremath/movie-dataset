@@ -1,0 +1,12 @@
+MovieID,Title,Genres,Release Date,UserID,Rating,Timestamp,Collection(in K)
+101,Avengers,Action,15-05-2005,1,6,1104537600,10
+102,Hera pari,Comedy,21-08-2010,2,8,1282435200,5
+103,Laapataa Ladies,Drama,05-11-2015,3,10,1446681600,
+104,Raayan,Action,14-02-2020,4,5,1581638400,3
+105,Thalavan,Thriller,12-07-1995,5,9,804556800,7
+106,Kill,action,12-10-2024,6,3,4624734478,5
+107,saaho,Thriller,03-05-2020,7,4,76875686841,2
+108,stree,Comedy,15-12-2019,8,7,5319684900,9
+109,stree 2,Comedy,04-08-2024,8,10,234567869,8
+110,Bhool Bhulaiyaa,horror,06-07-2007,9,,3490556839,10
+111,Bhool Bhulaiyaa 2,horror,05-02-2022,9,5,66787325588,7
